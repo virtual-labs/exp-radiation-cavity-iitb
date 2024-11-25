@@ -1,0 +1,403 @@
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/js/activity1.js
+   15:9   warning  'MathJax' is not defined                        no-undef
+   19:10  warning  'start_act1' is defined but never used          no-unused-vars
+   24:20  warning  'get_collapse_btn_text' is not defined          no-undef
+   36:83  warning  'e' is not defined                              no-undef
+   37:24  warning  'D_cm_a1' is not defined                        no-undef
+   37:53  warning  'H_cm_a1' is not defined                        no-undef
+   38:38  warning  'T_a1' is not defined                           no-undef
+   41:13  warning  Unnecessary escape character: \σ                no-useless-escape
+   41:23  warning  Unnecessary escape character: \×                no-useless-escape
+   52:24  warning  Unnecessary escape character: \π                no-useless-escape
+   52:38  warning  Unnecessary escape character: \π                no-useless-escape
+   60:31  warning  Unnecessary escape character: \π                no-useless-escape
+   71:5   warning  'hide_all_steps' is not defined                 no-undef
+   73:9   warning  'MathJax' is not defined                        no-undef
+   76:9   warning  'show_step' is not defined                      no-undef
+   81:5   warning  'D_cm_a1' is not defined                        no-undef
+   81:26  warning  'random' is not defined                         no-undef
+   82:5   warning  'D_m_a1' is not defined                         no-undef
+   82:14  warning  'D_cm_a1' is not defined                        no-undef
+   83:5   warning  'H_cm_a1' is not defined                        no-undef
+   83:26  warning  'random' is not defined                         no-undef
+   84:5   warning  'H_m_a1' is not defined                         no-undef
+   84:14  warning  'H_cm_a1' is not defined                        no-undef
+   85:5   warning  'T_a1' is not defined                           no-undef
+   85:12  warning  'random1' is not defined                        no-undef
+   86:5   warning  'A1_a1' is not defined                          no-undef
+   86:23  warning  'D_m_a1' is not defined                         no-undef
+   86:32  warning  'H_m_a1' is not defined                         no-undef
+   86:66  warning  'D_m_a1' is not defined                         no-undef
+   87:5   warning  'A2_a1' is not defined                          no-undef
+   87:38  warning  'D_m_a1' is not defined                         no-undef
+   88:5   warning  'F_11_a1' is not defined                        no-undef
+   88:19  warning  'A2_a1' is not defined                          no-undef
+   88:27  warning  'A1_a1' is not defined                          no-undef
+   89:5   warning  'Q_a1' is not defined                           no-undef
+   90:10  warning  'A1_a1' is not defined                          no-undef
+   90:18  warning  'e' is not defined                              no-undef
+   90:22  warning  'sigma' is not defined                          no-undef
+   90:39  warning  'T_a1' is not defined                           no-undef
+   90:55  warning  'F_11_a1' is not defined                        no-undef
+   91:23  warning  'e' is not defined                              no-undef
+   91:28  warning  'F_11_a1' is not defined                        no-undef
+   92:28  warning  'D_cm_a1' is not defined                        no-undef
+   93:27  warning  'D_m_a1' is not defined                         no-undef
+   94:28  warning  'H_cm_a1' is not defined                        no-undef
+   95:27  warning  'H_m_a1' is not defined                         no-undef
+   96:25  warning  'T_a1' is not defined                           no-undef
+   97:26  warning  'A1_a1' is not defined                          no-undef
+   98:26  warning  'A2_a1' is not defined                          no-undef
+   99:28  warning  'F_11_a1' is not defined                        no-undef
+  100:25  warning  'Q_a1' is not defined                           no-undef
+  102:10  warning  'a1_verify_A' is defined but never used         no-unused-vars
+  105:17  warning  'A1_a1' is not defined                          no-undef
+  105:24  warning  'A2_a1' is not defined                          no-undef
+  106:10  warning  'verify_values' is not defined                  no-undef
+  106:48  warning  'A1_a1' is not defined                          no-undef
+  115:10  warning  'verify_values' is not defined                  no-undef
+  115:48  warning  'A2_a1' is not defined                          no-undef
+  129:18  warning  Unnecessary escape character: \π                no-useless-escape
+  129:32  warning  Unnecessary escape character: \π                no-useless-escape
+  129:58  warning  'A1_a1' is not defined                          no-undef
+  132:26  warning  Unnecessary escape character: \π                no-useless-escape
+  132:52  warning  'A2_a1' is not defined                          no-undef
+  153:9   warning  'MathJax' is not defined                        no-undef
+  156:10  warning  'a1_verify_F' is defined but never used         no-unused-vars
+  158:17  warning  'F_11_a1' is not defined                        no-undef
+  159:10  warning  'verify_values' is not defined                  no-undef
+  159:47  warning  'F_11_a1' is not defined                        no-undef
+  173:59  warning  'F_11_a1' is not defined                        no-undef
+  181:32  warning  Unnecessary escape character: \×                no-useless-escape
+  181:35  warning  Unnecessary escape character: \ϵ                no-useless-escape
+  181:37  warning  Unnecessary escape character: \×                no-useless-escape
+  181:40  warning  Unnecessary escape character: \σ                no-useless-escape
+  181:43  warning  Unnecessary escape character: \×                no-useless-escape
+  181:49  warning  Unnecessary escape character: \×                no-useless-escape
+  181:73  warning  Unnecessary escape character: \ϵ                no-useless-escape
+  181:76  warning  Unnecessary escape character: \×                no-useless-escape
+  193:9   warning  'MathJax' is not defined                        no-undef
+  196:10  warning  'a1_verify_Q' is defined but never used         no-unused-vars
+  198:17  warning  'Q_a1' is not defined                           no-undef
+  199:10  warning  'verify_values' is not defined                  no-undef
+  199:47  warning  'Q_a1' is not defined                           no-undef
+  213:26  warning  Unnecessary escape character: \×                no-useless-escape
+  213:29  warning  Unnecessary escape character: \ϵ                no-useless-escape
+  213:31  warning  Unnecessary escape character: \×                no-useless-escape
+  213:34  warning  Unnecessary escape character: \σ                no-useless-escape
+  213:37  warning  Unnecessary escape character: \×                no-useless-escape
+  213:43  warning  Unnecessary escape character: \×                no-useless-escape
+  213:67  warning  Unnecessary escape character: \ϵ                no-useless-escape
+  213:70  warning  Unnecessary escape character: \×                no-useless-escape
+  213:98  warning  'Q_a1' is not defined                           no-undef
+  221:9   warning  'MathJax' is not defined                        no-undef
+  224:10  warning  'activity_completed' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/js/activity2.js
+    2:10  warning  'activity2' is defined but never used    no-unused-vars
+    5:20  warning  'get_collapse_btn_text' is not defined   no-undef
+   16:79  warning  'e' is not defined                       no-undef
+   17:24  warning  'D_cm_a2' is not defined                 no-undef
+   17:68  warning  'H_cm_a2' is not defined                 no-undef
+   18:44  warning  'T_a2' is not defined                    no-undef
+   21:13  warning  Unnecessary escape character: \σ         no-useless-escape
+   21:23  warning  Unnecessary escape character: \×         no-useless-escape
+   38:5   warning  'maindiv' is not defined                 no-undef
+   39:5   warning  'hide_all_steps' is not defined          no-undef
+   41:9   warning  'MathJax' is not defined                 no-undef
+   44:9   warning  'show_step' is not defined               no-undef
+   49:5   warning  'D_cm_a2' is not defined                 no-undef
+   49:26  warning  'random' is not defined                  no-undef
+   50:5   warning  'D_m_a2' is not defined                  no-undef
+   50:26  warning  'D_cm_a2' is not defined                 no-undef
+   51:5   warning  'H_cm_a2' is not defined                 no-undef
+   51:26  warning  'random' is not defined                  no-undef
+   52:5   warning  'H_m_a2' is not defined                  no-undef
+   52:26  warning  'H_cm_a2' is not defined                 no-undef
+   53:5   warning  'T_a2' is not defined                    no-undef
+   53:12  warning  'random1' is not defined                 no-undef
+   54:5   warning  'L_a2' is not defined                    no-undef
+   54:31  warning  'H_m_a2' is not defined                  no-undef
+   54:53  warning  'D_m_a2' is not defined                  no-undef
+   55:5   warning  'A1_a2' is not defined                   no-undef
+   55:24  warning  'D_m_a2' is not defined                  no-undef
+   55:33  warning  'L_a2' is not defined                    no-undef
+   56:5   warning  'A2_a2' is not defined                   no-undef
+   56:38  warning  'D_m_a2' is not defined                  no-undef
+   57:5   warning  'F_11_a2' is not defined                 no-undef
+   57:19  warning  'A2_a2' is not defined                   no-undef
+   57:27  warning  'A1_a2' is not defined                   no-undef
+   58:5   warning  'Q_a2' is not defined                    no-undef
+   59:10  warning  'A1_a2' is not defined                   no-undef
+   59:18  warning  'e' is not defined                       no-undef
+   59:22  warning  'sigma' is not defined                   no-undef
+   59:39  warning  'T_a2' is not defined                    no-undef
+   59:55  warning  'F_11_a2' is not defined                 no-undef
+   60:23  warning  'e' is not defined                       no-undef
+   60:28  warning  'F_11_a2' is not defined                 no-undef
+   61:28  warning  'D_cm_a2' is not defined                 no-undef
+   62:27  warning  'D_m_a2' is not defined                  no-undef
+   63:28  warning  'H_cm_a2' is not defined                 no-undef
+   64:27  warning  'H_m_a2' is not defined                  no-undef
+   65:25  warning  'T_a2' is not defined                    no-undef
+   66:25  warning  'L_a2' is not defined                    no-undef
+   67:26  warning  'A1_a2' is not defined                   no-undef
+   68:26  warning  'A2_a2' is not defined                   no-undef
+   69:28  warning  'F_11_a2' is not defined                 no-undef
+   70:25  warning  'Q_a2' is not defined                    no-undef
+   72:10  warning  'a2_verify_L' is defined but never used  no-unused-vars
+   74:17  warning  'L_a2' is not defined                    no-undef
+   75:10  warning  'verify_values' is not defined           no-undef
+   75:47  warning  'L_a2' is not defined                    no-undef
+   89:60  warning  'L_a2' is not defined                    no-undef
+  100:31  warning  Unnecessary escape character: \π         no-useless-escape
+  108:31  warning  Unnecessary escape character: \π         no-useless-escape
+  119:9   warning  'MathJax' is not defined                 no-undef
+  122:10  warning  'a2_verify_A' is defined but never used  no-unused-vars
+  125:17  warning  'A1_a2' is not defined                   no-undef
+  125:24  warning  'A2_a2' is not defined                   no-undef
+  126:10  warning  'verify_values' is not defined           no-undef
+  126:48  warning  'A1_a2' is not defined                   no-undef
+  135:10  warning  'verify_values' is not defined           no-undef
+  135:48  warning  'A2_a2' is not defined                   no-undef
+  149:25  warning  Unnecessary escape character: \π         no-useless-escape
+  149:50  warning  'A1_a2' is not defined                   no-undef
+  152:26  warning  Unnecessary escape character: \π         no-useless-escape
+  152:52  warning  'A2_a2' is not defined                   no-undef
+  173:9   warning  'MathJax' is not defined                 no-undef
+  176:10  warning  'a2_verify_F' is defined but never used  no-unused-vars
+  178:17  warning  'F_11_a2' is not defined                 no-undef
+  179:10  warning  'verify_values' is not defined           no-undef
+  179:47  warning  'F_11_a2' is not defined                 no-undef
+  193:59  warning  'F_11_a2' is not defined                 no-undef
+  201:32  warning  Unnecessary escape character: \×         no-useless-escape
+  201:35  warning  Unnecessary escape character: \ϵ         no-useless-escape
+  201:37  warning  Unnecessary escape character: \×         no-useless-escape
+  201:40  warning  Unnecessary escape character: \σ         no-useless-escape
+  201:43  warning  Unnecessary escape character: \×         no-useless-escape
+  201:49  warning  Unnecessary escape character: \×         no-useless-escape
+  201:73  warning  Unnecessary escape character: \ϵ         no-useless-escape
+  201:76  warning  Unnecessary escape character: \×         no-useless-escape
+  213:9   warning  'MathJax' is not defined                 no-undef
+  216:10  warning  'a2_verify_Q' is defined but never used  no-unused-vars
+  218:17  warning  'Q_a2' is not defined                    no-undef
+  219:10  warning  'verify_values' is not defined           no-undef
+  219:47  warning  'Q_a2' is not defined                    no-undef
+  233:26  warning  Unnecessary escape character: \×         no-useless-escape
+  233:29  warning  Unnecessary escape character: \ϵ         no-useless-escape
+  233:31  warning  Unnecessary escape character: \×         no-useless-escape
+  233:34  warning  Unnecessary escape character: \σ         no-useless-escape
+  233:37  warning  Unnecessary escape character: \×         no-useless-escape
+  233:43  warning  Unnecessary escape character: \×         no-useless-escape
+  233:67  warning  Unnecessary escape character: \ϵ         no-useless-escape
+  233:70  warning  Unnecessary escape character: \×         no-useless-escape
+  233:98  warning  'Q_a2' is not defined                    no-undef
+  241:9   warning  'MathJax' is not defined                 no-undef
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/js/activity3.js
+    2:10   warning  'activity3' is defined but never used      no-unused-vars
+    5:20   warning  'get_collapse_btn_text' is not defined     no-undef
+   16:41   warning  'R_cm_a3' is not defined                   no-undef
+   17:99   warning  'r_cm_a3' is not defined                   no-undef
+   18:45   warning  'T1_C_a3' is not defined                   no-undef
+   19:30   warning  'e_a3' is not defined                      no-undef
+   20:82   warning  'T2_C_a3' is not defined                   no-undef
+   31:16   warning  Unnecessary escape character: \∴           no-useless-escape
+   31:26   warning  Unnecessary escape character: \π           no-useless-escape
+   32:20   warning  Unnecessary escape character: \π           no-useless-escape
+   32:26   warning  Unnecessary escape character: \β           no-useless-escape
+   32:31   warning  Unnecessary escape character: \β           no-useless-escape
+   33:16   warning  Unnecessary escape character: \∠           no-useless-escape
+   40:19   warning  Unnecessary escape character: \∠           no-useless-escape
+   50:5    warning  'maindiv' is not defined                   no-undef
+   51:5    warning  'hide_all_steps' is not defined            no-undef
+   53:9    warning  'MathJax' is not defined                   no-undef
+   56:9    warning  'show_step' is not defined                 no-undef
+   61:5    warning  'ang_a3' is not defined                    no-undef
+   62:5    warning  'As_a3' is not defined                     no-undef
+   63:32   warning  'R_m_a3' is not defined                    no-undef
+   63:59   warning  'ang_a3' is not defined                    no-undef
+   64:5    warning  'A1_a3' is not defined                     no-undef
+   64:36   warning  'R_m_a3' is not defined                    no-undef
+   64:49   warning  'As_a3' is not defined                     no-undef
+   65:5    warning  'A2_a3' is not defined                     no-undef
+   65:32   warning  'r_m_a3' is not defined                    no-undef
+   66:5    warning  'F_11_a3' is not defined                   no-undef
+   66:19   warning  'A2_a3' is not defined                     no-undef
+   66:27   warning  'A1_a3' is not defined                     no-undef
+   67:5    warning  'Q_a3' is not defined                      no-undef
+   68:10   warning  'A1_a3' is not defined                     no-undef
+   68:18   warning  'sigma' is not defined                     no-undef
+   68:26   warning  'e_a3' is not defined                      no-undef
+   68:43   warning  'T1_K_a3' is not defined                   no-undef
+   68:66   warning  'T2_K_a3' is not defined                   no-undef
+   68:86   warning  'F_11_a3' is not defined                   no-undef
+   69:18   warning  'F_11_a3' is not defined                   no-undef
+   69:33   warning  'e_a3' is not defined                      no-undef
+   70:27   warning  'ang_a3' is not defined                    no-undef
+   71:26   warning  'As_a3' is not defined                     no-undef
+   72:26   warning  'A1_a3' is not defined                     no-undef
+   73:28   warning  'F_11_a3' is not defined                   no-undef
+   74:25   warning  'Q_a3' is not defined                      no-undef
+   76:10   warning  'a3_verify_ang' is defined but never used  no-unused-vars
+   78:17   warning  'ang_a3' is not defined                    no-undef
+   79:10   warning  'verify_values' is not defined             no-undef
+   79:47   warning  'ang_a3' is not defined                    no-undef
+   93:12   warning  Unnecessary escape character: \∠           no-useless-escape
+   93:33   warning  'ang_a3' is not defined                    no-undef
+   93:53   warning  Unnecessary escape character: \°           no-useless-escape
+  101:16   warning  Unnecessary escape character: \∴           no-useless-escape
+  101:25   warning  Unnecessary escape character: \∫           no-useless-escape
+  101:40   warning  Unnecessary escape character: \∫           no-useless-escape
+  101:51   warning  Unnecessary escape character: \π           no-useless-escape
+  101:60   warning  Unnecessary escape character: \β           no-useless-escape
+  101:64   warning  Unnecessary escape character: \β           no-useless-escape
+  102:16   warning  Unnecessary escape character: \∴           no-useless-escape
+  102:27   warning  Unnecessary escape character: \π           no-useless-escape
+  102:37   warning  Unnecessary escape character: \β           no-useless-escape
+  103:20   warning  Unnecessary escape character: \π           no-useless-escape
+  121:9    warning  'MathJax' is not defined                   no-undef
+  124:10   warning  'a3_verify_As' is defined but never used   no-unused-vars
+  126:17   warning  'As_a3' is not defined                     no-undef
+  127:10   warning  'verify_values' is not defined             no-undef
+  127:47   warning  'As_a3' is not defined                     no-undef
+  141:31   warning  'As_a3' is not defined                     no-undef
+  157:25   warning  Unnecessary escape character: \π           no-useless-escape
+  169:9    warning  'MathJax' is not defined                   no-undef
+  172:10   warning  'a3_verify_A1' is defined but never used   no-unused-vars
+  174:17   warning  'A1_a3' is not defined                     no-undef
+  175:10   warning  'verify_values' is not defined             no-undef
+  175:47   warning  'A1_a3' is not defined                     no-undef
+  189:19   warning  Unnecessary escape character: \π           no-useless-escape
+  189:47   warning  'A1_a3' is not defined                     no-undef
+  200:25   warning  Unnecessary escape character: \π           no-useless-escape
+  212:9    warning  'MathJax' is not defined                   no-undef
+  215:10   warning  'a3_verify_A2' is defined but never used   no-unused-vars
+  217:17   warning  'A2_a3' is not defined                     no-undef
+  218:10   warning  'verify_values' is not defined             no-undef
+  218:47   warning  'A2_a3' is not defined                     no-undef
+  232:18   warning  Unnecessary escape character: \π           no-useless-escape
+  232:40   warning  'A2_a3' is not defined                     no-undef
+  252:9    warning  'MathJax' is not defined                   no-undef
+  255:10   warning  'a3_verify_F' is defined but never used    no-unused-vars
+  257:17   warning  'F_11_a3' is not defined                   no-undef
+  258:10   warning  'verify_values' is not defined             no-undef
+  258:47   warning  'F_11_a3' is not defined                   no-undef
+  272:59   warning  'F_11_a3' is not defined                   no-undef
+  283:32   warning  Unnecessary escape character: \σ           no-useless-escape
+  283:34   warning  Unnecessary escape character: \ϵ           no-useless-escape
+  295:9    warning  'MathJax' is not defined                   no-undef
+  298:10   warning  'a3_verify_Q' is defined but never used    no-unused-vars
+  300:17   warning  'Q_a3' is not defined                      no-undef
+  301:10   warning  'verify_values' is not defined             no-undef
+  301:47   warning  'Q_a3' is not defined                      no-undef
+  315:26   warning  Unnecessary escape character: \σ           no-useless-escape
+  315:28   warning  Unnecessary escape character: \ϵ           no-useless-escape
+  315:104  warning  'Q_a3' is not defined                      no-undef
+  323:9    warning  'MathJax' is not defined                   no-undef
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/js/data.js
+   1:5   warning  'sigma' is assigned a value but never used    no-unused-vars
+   2:5   warning  'e' is assigned a value but never used        no-unused-vars
+   5:5   warning  'D_m_a1' is assigned a value but never used   no-unused-vars
+   7:5   warning  'H_m_a1' is assigned a value but never used   no-unused-vars
+   8:5   warning  'T_a1' is assigned a value but never used     no-unused-vars
+   9:5   warning  'A1_a1' is defined but never used             no-unused-vars
+  10:5   warning  'A2_a1' is defined but never used             no-unused-vars
+  11:5   warning  'F_11_a1' is defined but never used           no-unused-vars
+  12:5   warning  'Q_a1' is defined but never used              no-unused-vars
+  15:5   warning  'D_m_a2' is assigned a value but never used   no-unused-vars
+  17:5   warning  'H_m_a2' is assigned a value but never used   no-unused-vars
+  18:5   warning  'T_a2' is assigned a value but never used     no-unused-vars
+  19:5   warning  'L_a2' is defined but never used              no-unused-vars
+  20:5   warning  'A1_a2' is defined but never used             no-unused-vars
+  21:5   warning  'A2_a2' is defined but never used             no-unused-vars
+  22:5   warning  'F_11_a2' is defined but never used           no-unused-vars
+  23:5   warning  'Q_a2' is defined but never used              no-unused-vars
+  26:5   warning  'R_m_a3' is assigned a value but never used   no-unused-vars
+  28:5   warning  'r_m_a3' is assigned a value but never used   no-unused-vars
+  29:15  warning  'random1' is not defined                      no-undef
+  30:5   warning  'T1_K_a3' is assigned a value but never used  no-unused-vars
+  31:5   warning  'e_a3' is assigned a value but never used     no-unused-vars
+  32:15  warning  'random1' is not defined                      no-undef
+  33:5   warning  'T2_K_a3' is assigned a value but never used  no-unused-vars
+  34:5   warning  'ang_a3' is defined but never used            no-unused-vars
+  35:5   warning  'As_a3' is defined but never used             no-unused-vars
+  36:5   warning  'A1_a3' is defined but never used             no-unused-vars
+  37:5   warning  'A2_a3' is defined but never used             no-unused-vars
+  38:5   warning  'F_11_a3' is defined but never used           no-unused-vars
+  39:5   warning  'Q_a3' is defined but never used              no-unused-vars
+
+/home/runner/work/exp-radiation-cavity-iitb/exp-radiation-cavity-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 374 problems (0 errors, 374 warnings)
+
